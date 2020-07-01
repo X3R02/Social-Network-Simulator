@@ -1,0 +1,25 @@
+{
+    "is": {
+        "youtuber" : {
+            "activities": [
+                "make videos",
+                "use soscial media",
+                "make tiktoks"
+            ],
+            "denies": [
+                "ni iea"
+            ]
+        },
+        "gamer" : {
+            "activities": [
+                "play videogames"
+            ],
+            "denies": [
+                "soilers"
+            ]
+        }
+    },
+    "interacts" : {
+        
+    }
+}
